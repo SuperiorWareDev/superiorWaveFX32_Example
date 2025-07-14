@@ -8,7 +8,7 @@ superiorWaveFX32_Example
 
 The engine is built around a custom DLL (`superiorWavefx32.dll`) that provides direct access to the Windows Multimedia API (`winmm.dll`), allowing for intricate control over audio capture, real-time compression, and playback.
 
-**Author:** Johnny Walket(y0_Superior)
+**Author:** SuperiorWare
 **Date Created:** 2004
 **Core Technologies:** Visual Basic 6, `winmm.dll` (P/Invoke), DSP Group TrueSpeech Codec
 
